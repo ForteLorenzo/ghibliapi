@@ -6,3 +6,4 @@ _site/
 node_modules/
 .deploy*/
 .idea
+package-lock.json
